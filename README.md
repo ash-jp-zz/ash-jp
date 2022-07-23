@@ -5,8 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ash-jp&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ash-jp)](https://git.io/streak-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ash-jp&theme=monokai)
 
 <!--
